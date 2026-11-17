@@ -3,7 +3,7 @@ name = "SigmaOS-arch-shader-architecture-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-shader-architecture-kernel component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
